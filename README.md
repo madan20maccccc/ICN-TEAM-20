@@ -16,10 +16,12 @@ The dataset contains **500 simulated routing records**, where each route is eval
 - Performance indicators: packet delivery ratio, end-to-end delay, energy consumption  
 - Target label: Optimal vs Non-Optimal routing decision  
 
-**Dataset usage:**  
-Download the dataset from the provided link, upload it to a **Google Colab notebook**, and execute the code cells sequentially to reproduce the experiments.
+The dataset file (**CSV format**) is included directly in this repository.
 
----
+**How to use the dataset:**
+1. Download or clone this repository.
+2. Upload the dataset CSV file to your **Google Colab notebook** (or ensure it is in the same working directory).
+3. Run the provided code cells sequentially to reproduce the experiments and results.---
 
 ## Coding Implementation
 
